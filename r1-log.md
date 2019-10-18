@@ -12,3 +12,6 @@ Got the JS Password Visibility App working and fully functional. I will be revie
 
 ### R1D3
 Small project to build updated version of the password toggle app - this time to toggle multiple passwords at the same time. Was able to implement forEach and converting node list to an array to get it working. Project was completed today. 
+
+### R1D4
+Today was review and optimization day from the project on R1D3. Learned mostly about how to convert a NodeList to an array and then using a forEach method to loop through that array. In addition, I spend some time reading articles about callbacks and worked on JS tutorials on Free Code Camp (while at work). 
