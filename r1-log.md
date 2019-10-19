@@ -15,3 +15,6 @@ Small project to build updated version of the password toggle app - this time to
 
 ### R1D4
 Today was review and optimization day from the project on R1D3. Learned mostly about how to convert a NodeList to an array and then using a forEach method to loop through that array. In addition, I spend some time reading articles about callbacks and worked on JS tutorials on Free Code Camp (while at work). 
+
+### R1D5
+Setup Project #3 - Multiple passwords, multiple forms. Setup basic structure of project and began thinking about the logic of how the application is going to function. 
