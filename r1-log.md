@@ -18,3 +18,10 @@ Today was review and optimization day from the project on R1D3. Learned mostly a
 
 ### R1D5
 Setup Project #3 - Multiple passwords, multiple forms. Setup basic structure of project and began thinking about the logic of how the application is going to function. 
+
+
+### R1D6
+Reviwed and optimized code from project #3 - multiple passwords, multiple forms. Learned how to use custom data-attributes properly and matches method.
+
+### R1D7
+Project #4 - Character Count. UI will display live character count as a user types in a textarea field (in progress). 
