@@ -25,3 +25,6 @@ Reviwed and optimized code from project #3 - multiple passwords, multiple forms.
 
 ### R1D7
 Project #4 - Character Count. UI will display live character count as a user types in a textarea field (in progress). 
+
+### R1D8
+Project #4 - Character Count. Finished project and reviewed topics learned from it (many struggles). UI is now displaying live character count as the user types. 
