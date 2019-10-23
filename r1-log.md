@@ -28,3 +28,6 @@ Project #4 - Character Count. UI will display live character count as a user typ
 
 ### R1D8
 Project #4 - Character Count. Finished project and reviewed topics learned from it (many struggles). UI is now displaying live character count as the user types. 
+
+### R1D9
+Project #5 - Word-And-Character Count. Added additional functionality on top of previous project - this time the application will count the number of words with the individual characters. I was able to get the application functioning tonight!
