@@ -31,3 +31,6 @@ Project #4 - Character Count. Finished project and reviewed topics learned from 
 
 ### R1D9
 Project #5 - Word-And-Character Count. Added additional functionality on top of previous project - this time the application will count the number of words with the individual characters. I was able to get the application functioning tonight!
+
+### R1D10
+Project #5 - Word-And-Character Count. Went back to revise, organize and clean up code. Biggest difference was adding in regex to the .split method to handle line breaks and spaces. App is 100% good to go. 
