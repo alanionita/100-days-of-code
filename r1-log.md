@@ -34,3 +34,6 @@ Project #5 - Word-And-Character Count. Added additional functionality on top of 
 
 ### R1D10
 Project #5 - Word-And-Character Count. Went back to revise, organize and clean up code. Biggest difference was adding in regex to the .split method to handle line breaks and spaces. App is 100% good to go. 
+
+### R1D11
+Project #5 - Word-And-Character Count. Went back to add ARIA markup for screen readers. Learned a decent amount about aria-live but couldn't get the screen reader to quite read out the full text the way I wanted. Will in the AM.
