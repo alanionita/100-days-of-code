@@ -19,7 +19,6 @@ Today was review and optimization day from the project on R1D3. Learned mostly a
 ### R1D5
 Setup Project #3 - Multiple passwords, multiple forms. Setup basic structure of project and began thinking about the logic of how the application is going to function. 
 
-
 ### R1D6
 Reviwed and optimized code from project #3 - multiple passwords, multiple forms. Learned how to use custom data-attributes properly and matches method.
 
@@ -36,4 +35,13 @@ Project #5 - Word-And-Character Count. Added additional functionality on top of 
 Project #5 - Word-And-Character Count. Went back to revise, organize and clean up code. Biggest difference was adding in regex to the .split method to handle line breaks and spaces. App is 100% good to go. 
 
 ### R1D11
-Project #5 - Word-And-Character Count. Went back to add ARIA markup for screen readers. Learned a decent amount about aria-live but couldn't get the screen reader to quite read out the full text the way I wanted. Will in the AM.
+Project #6 - Word-And-Character Count. Went back to add ARIA markup for screen readers. Learned a decent amount about aria-live but couldn't get the screen reader to quite read out the full text the way I wanted. Will in the AM.
+
+### R1D12
+Project #6 - Refactored JS project from R1D11 to feature accesibility and ARIA markup attributes. Screen reader is now having an easier time reading the content displayed on the screen for impaired users. 
+
+### R1D13
+Today spent some time getting familiar with Promises and Fetch API - will be implementing in tomorrows project. 
+
+### R1D14
+Project #7 - Finished building random quote generator that utilizes Ron Swanson Quotes API. The app is full functional but code is not DRY. Will optimize code in the morning during review session. 
