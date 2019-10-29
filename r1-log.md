@@ -45,3 +45,6 @@ Today spent some time getting familiar with Promises and Fetch API - will be imp
 
 ### R1D14
 Project #7 - Finished building random quote generator that utilizes Ron Swanson Quotes API. The app is full functional but code is not DRY. Will optimize code in the morning during review session. 
+
+### R1D15
+Project #8 - Refactored project #7 with added functionality. The challenge was to remove duplicate quotes in the array to create a better UX. Still working on this. 
