@@ -48,3 +48,6 @@ Project #7 - Finished building random quote generator that utilizes Ron Swanson 
 
 ### R1D15
 Project #8 - Refactored project #7 with added functionality. The challenge was to remove duplicate quotes in the array to create a better UX. Still working on this. 
+
+### R1D16
+Project #8 - Completed functionality that added removing duplicate quotes and emptying quotes array once 50 quotes was reached. 
