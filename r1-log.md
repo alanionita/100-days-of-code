@@ -51,3 +51,6 @@ Project #8 - Refactored project #7 with added functionality. The challenge was t
 
 ### R1D16
 Project #8 - Completed functionality that added removing duplicate quotes and emptying quotes array once 50 quotes was reached. 
+
+### R1D17
+Project #9 - Setup JS app to pull top news stories from NY Times API. Was able to succesfully pull top 39 articles by (title, section, abtract, and URL).
