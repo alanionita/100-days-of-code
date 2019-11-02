@@ -54,3 +54,6 @@ Project #8 - Completed functionality that added removing duplicate quotes and em
 
 ### R1D17
 Project #9 - Setup JS app to pull top news stories from NY Times API. Was able to succesfully pull top 39 articles by (title, section, abtract, and URL).
+
+### R1D18
+Project #9 - Finished first part of project, was able to pull top stories to pull from NYT API and inject onto the page. 
