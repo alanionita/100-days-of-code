@@ -60,3 +60,6 @@ Project #9 - Finished first part of project, was able to pull top stories to pul
 
 ### R1D19
 Project #9 - Continued to struggle with methods on trying to loop through category names and then append to the page. 
+
+### R1D20
+Project #9 - Was able to pull 3-5 cateogires and 5 articles per category, but could not display all cateogires at the same time. #Progress 
