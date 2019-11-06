@@ -63,3 +63,9 @@ Project #10 - Continued to struggle with methods on trying to loop through categ
 
 ### R1D20
 Project #10 - Was able to pull 3-5 cateogires and 5 articles per category, but could not display all cateogires at the same time. After reviewing solution, I realized I was not too far off. #Progress
+
+### R1D21
+Today learned how to protect data from XSS attacks by sanitizing HTML - basically a smart and effective way to make sure you are not injecting malicious code unintentionally. This method was added to my NYT API Project. Sleep time
+
+### R1D22
+Spent some time reviewing sanitizing HTML methods and reinforcing JS fundamentals, reps over a sustained period of time = growth
