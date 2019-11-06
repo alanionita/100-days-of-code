@@ -69,3 +69,6 @@ Today learned how to protect data from XSS attacks by sanitizing HTML - basicall
 
 ### R1D22
 Spent some time reviewing sanitizing HTML methods and reinforcing JS fundamentals, reps over a sustained period of time = growth
+
+### R1D23
+R1D23 - Setup next JS project "Monster Shuffle" application where we will be using Fisher-Yates algorithm and working with SVG's.
