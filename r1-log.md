@@ -71,4 +71,25 @@ Today learned how to protect data from XSS attacks by sanitizing HTML - basicall
 Spent some time reviewing sanitizing HTML methods and reinforcing JS fundamentals, reps over a sustained period of time = growth
 
 ### R1D23
-R1D23 - Setup next JS project "Monster Shuffle" application where we will be using Fisher-Yates algorithm and working with SVG's.
+Setup next JS project "Monster Shuffle" application where we will be using Fisher-Yates algorithm and working with SVG's.
+
+### R1D24
+Fell asleep last night after long day at work so work up early this morning to continue on this array manipulation JS "Monsters" application - getting closer to solving it 🤠
+
+### R1D25
+Reviewed solution for JS Monsters app and I learned that I was complicating the shiiiiiit out of it... Damn. See yuh 2moro 😅
+
+### R1D26
+Added more functionality to this lightweight Monster JS application. You choose the door, and unhide the monsters - until you find the sock. Then the game is over mothafka 😂 still working on it.
+
+### R1D27
+Still working on lightweight Monsters JS app - learning more about array methods and UI rendering.
+
+### R1D28
+Finished reviewing solution to JS project "Find the Monsters and Track Wins". There is a lot of logic involved even with simple games. Learned a lot on this one 🧐
+
+### R1D29
+Working on table-of-contents JS app. Need to convert nodeList to array and append dynamically to the page. I'd say, I'm about 80% there 😮
+
+### R1D30
+Finished first challenge of Table of Contents JS project. Learned how to convert a nodeList to an array, created a list of dynamic anchor links from that array and injected into the DOM. It was pretty cool 🥳
