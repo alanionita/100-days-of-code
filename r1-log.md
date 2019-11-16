@@ -93,3 +93,15 @@ Working on table-of-contents JS app. Need to convert nodeList to array and appen
 
 ### R1D30
 Finished first challenge of Table of Contents JS project. Learned how to convert a nodeList to an array, created a list of dynamic anchor links from that array and injected into the DOM. It was pretty cool 🥳
+
+### R1D31
+Continued second part of challenge - Table of Contents JS Project (Missing ID's). During this challenge, there were HTML tags with Missing ID's. This challenge included modifying the existing script to support headings that don't have IDs on them. 
+
+### R1D32
+Project review day from previous day^ Learned how to properly implement RegEx pattern to replace missing ID's.
+
+### R1D33
+Next project: Table of Contenrs - Scope. This project was fairly straightforward. The challenge was to modify the Table of Contents script to keep it out of the global scope. I learned how to use an IIFE function. 
+
+### R1D34
+Reviewed solution on how to use IIFE within script. No changes were necessary. Will spend the rest of today on FCC challenges in the JavaScript section. 
