@@ -105,3 +105,6 @@ Next project: Table of Contenrs - Scope. This project was fairly straightforward
 
 ### R1D34
 Reviewed solution on how to use IIFE within script. No changes were necessary. Will spend the rest of today on FCC challenges in the JavaScript section. 
+
+### R1D35
+Started next project - Weather App. Was successfully able to get the app functioning tonight. App pulls in the user's location and displays data in Farenheit. Very proud of myself for getting this up in a running in just a few hours, more updtes coming tomorrow :) 
