@@ -126,3 +126,6 @@ Project review of mini JS DOM Manipulation library and HTML / CSS basics practic
 
 ### R1D45 - R1D47 
 Thanksgiving holiday break got me distracted with all the 🍗 and 🍷 - getting caught up on learning to build localStorage JS App.
+
+### R1D48 - R1D52
+I have officially started the Treehouse Techdegree Front-End Web Developement Program. In the first 7 days I completes Unit 01 and submitted the first project (personal portfolio page). On top of this I'm still working on Vanilla JS projects with localStorage.
