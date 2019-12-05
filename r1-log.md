@@ -108,3 +108,6 @@ Reviewed solution on how to use IIFE within script. No changes were necessary. W
 
 ### R1D35
 Started next project - Weather App. Was successfully able to get the app functioning tonight. App pulls in the user's location and displays data in Farenheit. Very proud of myself for getting this up in a running in just a few hours, more updtes coming tomorrow :) 
+
+### R1D36
+Completed Weather JS Application. Attempted to build this a few months ago and was unsuccessful, but not today! This one is using multiple API requests - find's users location and displays current weather information.
