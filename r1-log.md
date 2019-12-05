@@ -118,3 +118,5 @@ Extending weather JS app to include plugin functionality. Still working on it bu
 ### R1D38 - R1D39 
 Reviewed solution to plugin functionality and started next project which is "Creating a Helper Library" with JS. This 100d challenge is no joke 😂
 
+### R1D40 - R1D42 
+Continued working on building helper and DOM manipulation libraries using revealing module and constructor patterns. I'm gettin a little lost in the sauce RN!!! 🤖
