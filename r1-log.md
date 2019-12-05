@@ -114,3 +114,7 @@ Completed Weather JS Application. Attempted to build this a few months ago and w
 
 ### R1D37
 Extending weather JS app to include plugin functionality. Still working on it but will give developers a few nice options out of the box to mess with.
+
+### R1D38 - R1D39 
+Reviewed solution to plugin functionality and started next project which is "Creating a Helper Library" with JS. This 100d challenge is no joke 😂
+
