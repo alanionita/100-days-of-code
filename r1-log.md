@@ -111,3 +111,6 @@ Started next project - Weather App. Was successfully able to get the app functio
 
 ### R1D36
 Completed Weather JS Application. Attempted to build this a few months ago and was unsuccessful, but not today! This one is using multiple API requests - find's users location and displays current weather information.
+
+### R1D37
+Extending weather JS app to include plugin functionality. Still working on it but will give developers a few nice options out of the box to mess with.
