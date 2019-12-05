@@ -120,3 +120,6 @@ Reviewed solution to plugin functionality and started next project which is "Cre
 
 ### R1D40 - R1D42 
 Continued working on building helper and DOM manipulation libraries using revealing module and constructor patterns. I'm gettin a little lost in the sauce RN!!! 🤖
+
+### R1D43-44 Light day today. 
+Project review of mini JS DOM Manipulation library and HTML / CSS basics practiceeeeee.
