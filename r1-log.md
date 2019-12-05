@@ -123,3 +123,6 @@ Continued working on building helper and DOM manipulation libraries using reveal
 
 ### R1D43-44 Light day today. 
 Project review of mini JS DOM Manipulation library and HTML / CSS basics practiceeeeee.
+
+### R1D45 - R1D47 
+Thanksgiving holiday break got me distracted with all the 🍗 and 🍷 - getting caught up on learning to build localStorage JS App.
